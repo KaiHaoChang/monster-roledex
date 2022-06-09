@@ -1,3 +1,3 @@
 Monster Rolodex
 This is for react practce project
-monster-rolodex-terry.netlify.app
+https://monster-rolodex-terry.netlify.app
